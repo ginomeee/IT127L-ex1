@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Book">
+    <void property="bookTitle">
+     <string>The Leviathan Trilogy	</string>
+    </void>
+    <void property="date">
+     <object class="PubDate">
+      <void property="day">
+       <int>10</int>
+      </void>
+      <void property="month">
+       <string>August</string>
+      </void>
+      <void property="year">
+       <int>2010</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <object class="Author">
+      <void property="firstname">
+       <string>Scott</string>
+      </void>
+      <void property="lastname">
+       <string>Westerfield</string>
+      </void>
+      <void property="title">
+       <string>Sir</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Book">
+    <void property="bookTitle">
+     <string>The Hunger Games 1	</string>
+    </void>
+    <void property="date">
+     <object class="PubDate">
+      <void property="day">
+       <int>1</int>
+      </void>
+      <void property="month">
+       <string>January</string>
+      </void>
+      <void property="year">
+       <int>2008</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <object class="Author">
+      <void property="firstname">
+       <string>Suzanne</string>
+      </void>
+      <void property="lastname">
+       <string>Collins</string>
+      </void>
+      <void property="title">
+       <string>Mrs.</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Book">
+    <void property="bookTitle">
+     <string>The Hunger Games: Catching Fire</string>
+    </void>
+    <void property="date">
+     <object class="PubDate">
+      <void property="day">
+       <int>1</int>
+      </void>
+      <void property="month">
+       <string>January</string>
+      </void>
+      <void property="year">
+       <int>2008</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <object class="Author">
+      <void property="firstname">
+       <string>Suzanne</string>
+      </void>
+      <void property="lastname">
+       <string>Collins</string>
+      </void>
+      <void property="title">
+       <string>Mrs.</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Book">
+    <void property="bookTitle">
+     <string>The Hunger Games: Mockingjay</string>
+    </void>
+    <void property="date">
+     <object class="PubDate">
+      <void property="day">
+       <int>1</int>
+      </void>
+      <void property="month">
+       <string>January</string>
+      </void>
+      <void property="year">
+       <int>2008</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <object class="Author">
+      <void property="firstname">
+       <string>Suzanne</string>
+      </void>
+      <void property="lastname">
+       <string>Collins</string>
+      </void>
+      <void property="title">
+       <string>Mrs.</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Book">
+    <void property="bookTitle">
+     <string>Harry Potter		</string>
+    </void>
+    <void property="date">
+     <object class="PubDate">
+      <void property="day">
+       <int>26</int>
+      </void>
+      <void property="month">
+       <string>June</string>
+      </void>
+      <void property="year">
+       <int>1997</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <object class="Author">
+      <void property="firstname">
+       <string>Joanne K</string>
+      </void>
+      <void property="lastname">
+       <string>Rowling</string>
+      </void>
+      <void property="title">
+       <string>Mrs</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
